@@ -55,4 +55,4 @@ A snapshot of what you are currently working on or planning to implement next:
 - [ ] Deploy MVP and run integration tests
 
 ## 👤 Author
-* **Daniel Emeni** – *Intern* – [https://github.com/daniel-emeni-dev]
+* **Daniel Emeni** – *Intern* – https://github.com/daniel-emeni-dev
